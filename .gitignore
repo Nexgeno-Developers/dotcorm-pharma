@@ -33,7 +33,6 @@ install.zip
 /public/app-translations
 public/uploads.zip
 .env
-public/all
 
 *.zip
 webtesti_dotcomdb.sql
